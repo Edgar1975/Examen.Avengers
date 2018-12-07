@@ -1,0 +1,10 @@
+C:\Users\Edgar Saavedra\source\repos\Examen_EdgarSaavedraAdame\Examen_EdgarSaavedraAdame\bin\Debug\Examen_EdgarSaavedraAdame.exe.config
+C:\Users\Edgar Saavedra\source\repos\Examen_EdgarSaavedraAdame\Examen_EdgarSaavedraAdame\bin\Debug\Examen_EdgarSaavedraAdame.exe
+C:\Users\Edgar Saavedra\source\repos\Examen_EdgarSaavedraAdame\Examen_EdgarSaavedraAdame\bin\Debug\Examen_EdgarSaavedraAdame.pdb
+C:\Users\Edgar Saavedra\source\repos\Examen_EdgarSaavedraAdame\Examen_EdgarSaavedraAdame\obj\Debug\Examen_EdgarSaavedraAdame.Form1.resources
+C:\Users\Edgar Saavedra\source\repos\Examen_EdgarSaavedraAdame\Examen_EdgarSaavedraAdame\obj\Debug\Examen_EdgarSaavedraAdame.Properties.Resources.resources
+C:\Users\Edgar Saavedra\source\repos\Examen_EdgarSaavedraAdame\Examen_EdgarSaavedraAdame\obj\Debug\Examen_EdgarSaavedraAdame.csproj.GenerateResource.Cache
+C:\Users\Edgar Saavedra\source\repos\Examen_EdgarSaavedraAdame\Examen_EdgarSaavedraAdame\obj\Debug\Examen_EdgarSaavedraAdame.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Saavedra\source\repos\Examen_EdgarSaavedraAdame\Examen_EdgarSaavedraAdame\obj\Debug\Examen_EdgarSaavedraAdame.exe
+C:\Users\Edgar Saavedra\source\repos\Examen_EdgarSaavedraAdame\Examen_EdgarSaavedraAdame\obj\Debug\Examen_EdgarSaavedraAdame.pdb
+C:\Users\Edgar Saavedra\source\repos\Examen_EdgarSaavedraAdame\Examen_EdgarSaavedraAdame\obj\Debug\Examen_EdgarSaavedraAdame.csprojResolveAssemblyReference.cache
